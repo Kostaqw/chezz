@@ -1,0 +1,2 @@
+C:\Users\Zver\source\repos\chezz_final\Debug\chezz_final.exe
+C:\Users\Zver\source\repos\chezz_final\Debug\chezz_final.pdb

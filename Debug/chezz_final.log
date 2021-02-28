@@ -1,0 +1,4 @@
+﻿  chezz_final.cpp
+C:\Users\Zver\source\repos\chezz_final\figurs.cpp(213,7): warning C4101: tmpY: неиспользованная локальная переменная
+C:\Users\Zver\source\repos\chezz_final\figurs.cpp(212,7): warning C4101: tmpX: неиспользованная локальная переменная
+  chezz_final.vcxproj -> C:\Users\Zver\source\repos\chezz_final\Debug\chezz_final.exe
